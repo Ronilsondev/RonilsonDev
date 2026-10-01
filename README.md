@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="RONILSON.DEV - Physics, Code, AI and Robotics">
+</p>
+
 <h1 align="center">👋 Olá, eu sou Ronilson Lima Souza</h1>
 
 <h3 align="center">
